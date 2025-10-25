@@ -5,3 +5,4 @@
 - Research interests: 
   - [Neural-Symbolic Learning](https://analyticsindiamag.com/what-is-neuro-symbolic-ai-and-why-are-researchers-gushing-over-it/)
   - [Knowledge Representation Learning](https://towardsdatascience.com/gentle-introduction-to-knowledge-representation-learning-1ee873830219)
+- *Also developing high-frequency on-chain arbitrage and trading bots since 2023, focusing on Solana and EVM chains.*
